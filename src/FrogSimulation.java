@@ -24,7 +24,9 @@ public class FrogSimulation
      * false otherwise.
      */
     public boolean simulate()
-    { /* to be implemented in part (a) */ }
+    {
+        if (maxHops > )
+    }
 
     /** Runs num simulations and returns the proportion of simulations in which the frog
      * successfully reached or passed the goal.
